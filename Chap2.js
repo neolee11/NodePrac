@@ -15,3 +15,9 @@ request('http://www.cnn.com', function (error, response, body) {
         console.log(body);
     }
 });
+
+
+
+function test(){
+
+}
